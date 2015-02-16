@@ -1,8 +1,8 @@
 from setuptools import setup
 
 
-with open('README.md') as fp:
-    long_description = fp.read()
+#with open('README.md') as fp:
+    #long_description = fp.read()
 
 setup(
     name='Flask-ElasticSearch',
@@ -12,7 +12,7 @@ setup(
     author='Peter Flood - Kazoup',
     author_email='peter.flood@kazoup.com',
     description='ElasticSearch for Flask',
-    long_description=long_description,
+    long_description='ElasticSEarch for Flask',
     py_modules=['flask_elasticsearch'],
     zip_safe=False,
     include_package_data=True,
