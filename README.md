@@ -1,6 +1,8 @@
 Flask-ElasticSearch
 ===================
 
+[![Build Status](https://travis-ci.org/BrandKarma/flask-elasticsearch.svg?branch=master)](https://travis-ci.org/BrandKarma/flask-elasticsearch)
+
 Integrates ElasticSearch with Flask using the official [elasticsearch][]
 python package.
 
