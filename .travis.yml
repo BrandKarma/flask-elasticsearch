@@ -5,6 +5,7 @@ python:
   - "3.4"
 
 install:
+  - pip install tox sphinx
   - pip install --editable .
   - pip install
 
